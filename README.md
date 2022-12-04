@@ -8,13 +8,13 @@ Hi, my name is Gabriel and I am from Karlovo, Bulgaria 🇧🇬!
  
   I also have started studying JavaScript at Software University(SoftUni), where I have completed the following courses:
   
- -JavaScript Basic
+ - JavaScript Basic
  
- -JavaScript Fundamentals
+ - JavaScript Fundamentals
  
- -JavaScript Advanced
+ - JavaScript Advanced
  
- -Javascript Applications;
+ - Javascript Applications;
  
  At the moment, I am learning ReactJS
  
