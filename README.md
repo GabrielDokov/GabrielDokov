@@ -28,8 +28,11 @@ Hi, my name is Gabriel and I am from Karlovo, Bulgaria 🇧🇬!
  
  ## 📫 How to reach me:
  
-<a href="linkedin.com/in/gabriel-dokov-1a248622b">LinkedIn</a>
+<a href="linkedin.com/in/gabriel-dokov-1a248622b">LinkedIn
+ <img>
+</a>
 
+//<a target="_blank" href="https://icons8.com/icon/ZsqwnJaWUi9o/gmail-logo">Gmail Logo</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 Email : gabriel.dokovv991@gmail.com
 
